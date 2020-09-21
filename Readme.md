@@ -2,8 +2,8 @@
 
 # Resources
 - [Choosing between OnlineMeetingAPIs](https://docs.microsoft.com/en-us/graph/choose-online-meeting-api)
--- [CreateEvent](https://docs.microsoft.com/en-us/graph/api/user-post-events?view=graph-rest-1.0&tabs=http)
--- [CreateOnlineMeeting](https://docs.microsoft.com/en-us/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http)
+  - [CreateEvent](https://docs.microsoft.com/en-us/graph/api/user-post-events?view=graph-rest-1.0&tabs=http)
+  - [CreateOnlineMeeting](https://docs.microsoft.com/en-us/graph/api/application-post-onlinemeetings?view=graph-rest-1.0&tabs=http)
 
 # Best Practices, Tutorials and References
 
